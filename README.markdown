@@ -21,7 +21,6 @@ Here's a simple guide on how to build, hope it helps(thanks WalterDalton for pro
     > $HIVE_HOME/bin/hive --auxpath /home/yc.huang/mongo-java-driver-2.6.3.jar,/home/yc.huang/guava-r06.jar,  
     /home/yc.huang/hive-mongo-0.0.1-SNAPSHOT.jar
 
-    
 
     hive> create external table mongo_users(id int, name string, age int)  
     stored by "org.yong3.hive.mongo.MongoStorageHandler"  
