@@ -1,4 +1,4 @@
- This is a quick&dirty implementation of a MongoDB storage handler for Apache HIVE.
+This is a quick&dirty implementation of a MongoDB storage handler for Apache HIVE.
 
 ##CAUTION:
 
