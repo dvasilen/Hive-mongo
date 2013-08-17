@@ -31,7 +31,6 @@ Here's a simple guide on how to build, hope it helps(thanks WalterDalton for pro
     OK
     Time taken: 4.093 seconds
 
-    
 
     hive> insert overwrite table mongo_users select id, name,age from hive_test;
 
